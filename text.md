@@ -1,0 +1,2 @@
+## Ai Prompt for Something Missing Sections:
+You are a developer check my website and add a FAQ section here make sure the FAQ section match the overall vibes and also make sure just to use the raw html and css code
