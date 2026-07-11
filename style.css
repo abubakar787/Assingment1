@@ -368,8 +368,8 @@ ul li a {
 
 /* Footer Section styling */
 .site-footer {
-  background-color: #0f172a; /* Same dark slate as pricing featured card */
-  color: #94a3b8; /* Soft slate gray text */
+  background-color: #0f172a;
+  color: #94a3b8; 
   padding: 80px 0 40px 0;
   font-family: "Inter", sans-serif;
   border-top: 1px solid rgba(255, 255, 255, 0.05);
@@ -443,37 +443,11 @@ ul li a {
   transition: color 0.2s ease;
 }
 
-.site-footer ul.footer-links li a:hover {
-  color: #ffffff;
-}
 
-.newsletter-col p {
-  font-size: 15px;
-  line-height: 1.6;
-  margin-bottom: 20px;
-}
 
-.newsletter-form {
-  display: flex;
-  gap: 10px;
-}
 
-.newsletter-form input[type="email"] {
-  flex: 1;
-  background-color: #1e293b;
-  border: 1px solid #334155;
-  border-radius: 8px;
-  padding: 12px 16px;
-  color: #ffffff;
-  font-size: 14px;
-  font-family: inherit;
-  outline: none;
-  transition: border-color 0.2s ease;
-}
 
-.newsletter-form input[type="email"]:focus {
-  border-color: #3b82f6;
-}
+
 
 .footer-btn {
   padding: 12px 20px;
@@ -494,19 +468,4 @@ ul li a {
   font-size: 14px;
 }
 
-.footer-bottom p {
-  margin: 0;
-}
-
-.social-links {
-  display: flex;
-  gap: 16px;
-}
-
-.social-links a {
-  color: #94a3b8;
-  transition: color 0.2s ease;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-}
+ 
